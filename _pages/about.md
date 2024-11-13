@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "This webpage is still under construction, a lot of stuff is here and there, Whilst this notice is up please dont try to naviage, come back later"
 author_profile: true
 redirect_from: 
   - /about/
