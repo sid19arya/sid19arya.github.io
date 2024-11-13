@@ -12,7 +12,7 @@ title                    : "Sid's Home Page"
 title_separator          : "-"
 name                     : &name "Siddharth Arya"
 description              : &description "Machine Learning Engineer, Himothy "
-url                      : https://sidarya.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://sid19arya.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sid19arya/sidarya.github.io"
 
