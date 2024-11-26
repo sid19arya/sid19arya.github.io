@@ -2,7 +2,7 @@
 title: "Balancing Feature Reduction and Feature Importance: GRA-KNN"
 collection: teaching
 type: "Course Project"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/knn
 venue: "University of Toronto"
 date: 2023-01-01
 location: "City, Country"

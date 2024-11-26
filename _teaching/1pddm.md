@@ -4,7 +4,7 @@ collection: teaching
 type: "Guardrails for AI"
 permalink: /research/pddm
 venue: "Vector Institute of Technology"
-date: 2024-01-01
+date: 2024-10-01
 location: "Toronto, Ontario"
 ---
 

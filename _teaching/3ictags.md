@@ -2,9 +2,9 @@
 title: "SEFR - Self Engineered Functional Requirments for Image Classification Systems"
 collection: teaching
 type: "Course Project"
-permalink: /research/pddm
+permalink: /research/sefr
 venue: "Vector Institute of Technology"
-date: 2024-01-01
+date: 2024-08-01
 location: "Toronto, Ontario"
 ---
 

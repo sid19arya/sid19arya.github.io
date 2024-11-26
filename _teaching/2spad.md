@@ -2,9 +2,9 @@
 title: "SPAD - constructing images based on individual photon readings"
 collection: teaching
 type: "Visual Computing"
-permalink: /research/pddm
+permalink: /research/spad
 venue: "Dynamic Graphics Project, UofT"
-date: 2024-01-01
+date: 2024-09-01
 location: "Toronto, Ontario"
 ---
 
