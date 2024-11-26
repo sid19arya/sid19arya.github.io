@@ -5,16 +5,14 @@ collection: talks
 type: "Back-end Developer"
 permalink: /experiences/oot
 venue: "Oot Social Inc"
-excerpt: "May 2023 - August 2023"
+excerpt: Developed and Deployed Prototyped Backend-Server using NodeJs + ExpressJs on Microsoft Azure
 # date: "September 2023 - December 2023"
 location: "Toronto Ontario"
 ---
 
-Developed and Deployed Prototyped Backend-Server using NodeJs + ExpressJs on Microsoft Azure
+Date: "September 2023 - December 2023"
 
-Date -> "May 2023 - August 2023"
-
-Company -> Oot Social Inc.
+Company: Oot Social Inc.
 
 I interned as a back-end software engineer for Oot, a social media startup.
 
