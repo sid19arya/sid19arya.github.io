@@ -1,13 +1,11 @@
 ---
 title: "Software Engineer Intern"
-collection: experiences
-type: "Experience"
+collection: talks
+type: "Talk"
 permalink: /experiences/oot
 venue: "Oot Social Inc"
-date: September 2023 - December 2023
+date: "September 2023 - December 2023"
 location: "Toronto Ontario"
 ---
 
 I intered as a back-end software engineer for Oot, a social media startup.
-
-![image](../images/500x300.png)
