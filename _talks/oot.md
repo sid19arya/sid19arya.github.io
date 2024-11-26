@@ -1,10 +1,11 @@
 ---
 title: "Software Engineer Intern"
 collection: talks
-type: "Talk"
+# type: "Industry Role"
 permalink: /experiences/oot
 venue: "Oot Social Inc"
-date: "September 2023 - December 2023"
+excerpt: "September 2023 - December 2023"
+# date: "September 2023 - December 2023"
 location: "Toronto Ontario"
 ---
 
