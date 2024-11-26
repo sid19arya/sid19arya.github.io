@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "Experience"
-    url: /talks/    
+    url: /experiences/    
 
   # - title: "Education"
   #   url: /teaching/    
@@ -20,7 +20,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"s
+  - title: "CV"
     url: /files/resume.pdf
     
   # - title: "Guide"
