@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+
+
 *Disclaimer: This site is currently in a Minimal state, information about the experiences/research/projects is still being filled out, if you are interested in the summary provided and would like to learn more feel free to reach out to me (email below)!*
+
+---
 
 Hello, my name is Siddharth (Sid) Arya. I am a machine learning researcher/engineer. Currently, I am in my final year of a BS in Computer Science at the University of Toronto. Alongside courses on fundemntal principles of computer science, with a focus of machine learning, I have also had the pleasure of taking part in research as an undergrad. I have worked under the supervision of  [Prof. Rahul Krishnan](https://www.cs.toronto.edu/~rahulgk/index.html) at the [Vector Institute](https://vectorinstitute.ai/) on explaining model inference in the healthcare sector, as well as developing novel methods to monitor models post-deployment. I am currently working with [Prof. Marsha Chechik](https://www.cs.toronto.edu/~chechik/) on creating requirment specifications for software systems with image classification models - to avoid model failure. Additionally, I am currently a member in the [Dynamic Graphics Project Lab](https://www.dgp.toronto.edu/) under the supervision of [Prof Kyros Kutulakos](https://www.cs.toronto.edu/~kyros/) working on processing algorithms for SPAD (single-photon-avalanche diode) cameras.
 
