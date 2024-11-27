@@ -3,7 +3,7 @@ title: "Model Explainability with Shap Values"
 collection: teaching
 type: "Explainable Ai"
 permalink: /teaching/shap
-venue: "University of Toronto"
+venue: "Vector Institute of Technology"
 date: 2024-07-01
 location: "City, Country"
 ---
