@@ -18,8 +18,8 @@ Hello, my name is Siddharth (Sid) Arya. I am a machine learning researcher/engin
 While I deeply enjoy research, I am eager to transition into a more applied setting where I can leverage my background in machine learning to solve real-world business challenges. I want to see firsthand how ML models impact decision-making, optimize processes, and drive innovation beyond academic settings. 
 
 Some highlights:
-1) Published a python package alongside peers at Vector to allow users to validate their models in a production scenario (unlabeled test data): [pypi](https://pypi.org/project/bayesian-dpddm/), [Github_Repo](https://github.com/teivng/bayesian_dpddm)
-2) Received a research grant from the Data Science Institute at UofT to conduct a benchmark study of contemporary data shift detection methods and present at the annual SUDS showcase: [Linkdin_Post](https://www.linkedin.com/posts/sid19arya_datascience-research-healthcare-activity-7241829797939568640-zhIK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2auggBIQAk0-jVRiaXH7EfYt2nRjTrock)
+- Published a python package alongside peers at Vector to allow users to validate their models in a production scenario (unlabeled test data): [pypi](https://pypi.org/project/bayesian-dpddm/), [Github_Repo](https://github.com/teivng/bayesian_dpddm)
+- Received a research grant from the Data Science Institute at UofT to conduct a benchmark study of contemporary data shift detection methods and present at the annual SUDS showcase: [Linkdin_Post](https://www.linkedin.com/posts/sid19arya_datascience-research-healthcare-activity-7241829797939568640-zhIK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2auggBIQAk0-jVRiaXH7EfYt2nRjTrock)
 
 Please reach out to me on my [linkdin](https://www.linkedin.com/in/sid19arya/) or email ('sid19arya' @ 'gmail.com') if you'd like to chat!
 
