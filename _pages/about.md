@@ -24,11 +24,6 @@ Some highlights:
 Please reach out to me on my [linkdin](https://www.linkedin.com/in/sid19arya/) or email ('sid19arya' @ 'gmail.com') if you'd like to chat!
 
 
-
-I am currently looking in 2 directions: (i) Joining Industry as a Machine Learning Engineer in order to learn about the issues involved with putting machine learning models into production. (ii) Persuing Graduate Studies in Computer Science to cultivate my interest in researching models. 
-
-Oh, and I also play the football (not the American version) and am learning the guitar. 
-
 Research and Work Interests
 ======
 I consider myself a novice in the machine learning field, my primary interest would be working with Excellent and Accomplished Researchers to learn from them! 
@@ -46,3 +41,4 @@ Beyond that some of the work I done so far:
 - **Guardrails for AI** : how can we add automated supervision for knowing when AI models might start making mistakes
 - **Computational Imaging** (new addition): how do camera's capture images, how can we develop these image capturing capabilities in different contexts
 
+Oh, and I also play the football (not the American version) and am learning the guitar. 
